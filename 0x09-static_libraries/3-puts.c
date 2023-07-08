@@ -5,7 +5,7 @@
  *
  * Return: Always 0 (Success)
  */
-void _puts(char *str[i]);
+void _puts(char *str)
 {
 	int i = 0;
 
